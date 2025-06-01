@@ -490,7 +490,7 @@ overflow-x: hidden;
 }
 .block6_function {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-between;
     border: none;
     margin: 0;
