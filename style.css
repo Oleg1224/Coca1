@@ -517,6 +517,7 @@ overflow-x: hidden;
     max-width: 805px;
     width: 100%;
     display: none;
+    color: rgb(16, 16, 16);
 }
 .block6_function:focus .block6_function_text {
     display: block;
